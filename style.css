@@ -1,0 +1,64 @@
+/* =========================
+   LOGIN
+========================= */
+
+.login-page {
+    background: linear-gradient(
+        135deg,
+        #0d6efd,
+        #6f42c1
+    );
+}
+
+
+.login-card {
+    border: none;
+
+    border-radius: 20px;
+}
+
+
+.login-icon {
+    width: 70px;
+
+    height: 70px;
+
+    margin: auto;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    background-color: #0d6efd;
+
+    color: white;
+
+    border-radius: 50%;
+
+    font-size: 35px;
+}
+
+
+.login-card .form-control {
+
+    height: 48px;
+
+}
+
+
+.login-card .input-group-text {
+
+    background-color: #f8f9fa;
+
+}
+
+
+.login-card .btn {
+
+    height: 48px;
+
+    font-weight: bold;
+
+}
